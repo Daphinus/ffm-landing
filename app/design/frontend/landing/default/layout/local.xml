@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<layout version="0.1.0">
+    <default>
+        <reference name="head">
+            <action method="addItem"><type>skin_js</type><name>js/jquery.1.11.3.min.js</name></action>
+            <action method="addItem"><type>skin_js</type><name>js/html5.js</name></action>
+            <action method="addItem"><type>skin_js</type><name>js/custom.js</name></action>
+            <action method="addItem"><type>skin_js</type><name>js/core.min.js</name></action>
+            <block type="core/text" name="typekit.font">
+                <action method="setText">
+                    <text>
+                        <![CDATA[<script type="text/javascript" src="//use.typekit.net/lkk3yjp.js"></script><script type="text/javascript">try{Typekit.load();}catch(e){}</script>]]>
+                    </text>
+                </action>
+            </block>
+        </reference>
+    </default>
+</layout>

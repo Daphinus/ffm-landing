@@ -1,0 +1,12 @@
+<header>
+    <h1>
+        <a href="http://www.fultonfishmarket.com/" id="logo" class="main-big-logo">Fulton Fish Market</a>
+    </h1>
+    <nav id="mainMenu">
+        <ul>
+            <li><a href="http://www.fultonfishmarket.com/about-us">About Us</a></li>
+            <li><a href="http://www.fultonfishmarket.com/careers">Careers</a></li>
+            <li><a href="http://www.fultonfishmarket.com/contact">Contact</a></li>
+        </ul>
+    </nav>
+</header>
